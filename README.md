@@ -16,5 +16,6 @@ This is particularly useful when dealing with subtitles that contain many short 
 Examples to be provided later.
 
 ## Prerequisites
-- yarn must be installed
+- yarn must be installed: the software was tested with yarn version 1.22.22
 - tsc (typescript compiler) must be installed
+- node must be installed: the software was tested with node version 22.11.0
