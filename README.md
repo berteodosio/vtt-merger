@@ -1,5 +1,7 @@
 # VTT Merger
 
+[![DOI](https://zenodo.org/badge/1078898594.svg)](https://doi.org/10.5281/zenodo.17387231)
+
 This repository provides helper scripts for processing VTT subtitle files.
 
 Its main purpose is to parse VTT files and generate new `.vtt` or `.txt` outputs where consecutive lines from the same speaker are merged into longer text segments.
